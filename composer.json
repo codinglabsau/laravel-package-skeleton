@@ -4,7 +4,7 @@
     "keywords": [
         "Codinglabs",
         "laravel",
-        ":package_slug",
+        ":package_slug"
     ],
     "homepage": "https://github.com/codinglabsau/:package_slug",
     "license": "MIT",
