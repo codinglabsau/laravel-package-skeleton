@@ -1,8 +1,7 @@
 <?php
 
-namespace Codinglabs\FeatureFlags;
+namespace Codinglabs\Skeleton;
 
-use Illuminate\Support\Facades\Blade;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 

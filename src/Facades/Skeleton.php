@@ -1,9 +1,8 @@
 <?php
 
-namespace Codinglabs\FeatureFlags\Facades;
+namespace Codinglabs\Skeleton\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use Codinglabs\FeatureFlags\Enums\FeatureState;
 
 /**
  * @see \Codinglabs\Skeleton\Skeleton
